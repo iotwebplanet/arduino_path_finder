@@ -18,4 +18,4 @@ Required component
   Approx  Budget : under INR 1500/-
 
 
-all component availble on iotwebplanet.com
+all component buy form https://iotwebplanet.com
